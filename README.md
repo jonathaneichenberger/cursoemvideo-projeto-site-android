@@ -17,7 +17,7 @@ Este projeto tem como objetivo apresentar de forma clara e divertida curiosidade
 
 ## Imagens do Projeto
 ![Primeira parte do Site](projeto-android-1.jpg)
-![Segunda parte do Site](projeto-android-.jpg)
+![Segunda parte do Site](projeto-android-2.jpg)
 ![Terceira parte do Site](projeto-android-3.jpg)
 ![Quarta parte do Site](projeto-android-4.jpg)
 
