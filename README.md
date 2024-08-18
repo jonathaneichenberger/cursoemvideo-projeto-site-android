@@ -13,13 +13,7 @@ Este projeto tem como objetivo apresentar de forma clara e divertida curiosidade
 * **CSS:** Estilização visual.
 
 ## Como Acessar o Projeto
-[[Link para o seu site](https://jonathaneichenberger.github.io/projeto-site-android-cursoemvideo)]
-
-## Contribuições
-Se você tiver alguma sugestão ou quiser contribuir para o projeto, fique à vontade para abrir um pull request.
-
-## Licença
-Este projeto está licenciado sob a licença [Nome da Licença].
+[[Link para o Site](https://jonathaneichenberger.github.io/projeto-site-android-cursoemvideo)]
 
 ## Imagens do Projeto
 ![Primeira parte do Site](projeto-android-1.jpg)
@@ -28,4 +22,4 @@ Este projeto está licenciado sob a licença [Nome da Licença].
 ![Quarta parte do Site](projeto-android-4.jpg)
 
 ## Créditos
-* **Desenvolvedor:** [Jonathan Reinaldo Eichenberger]
+* **Desenvolvedor:** [Jonathan Reinaldo Eichenberger](https://github.com/jonathaneichenberger/)
