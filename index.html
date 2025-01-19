@@ -100,5 +100,24 @@
             Site Criado <a href="https://www.linkedin.com/in/jonathan-reinaldo-eichenberger/" target="_blank" >Jonathan Reinaldo Eichenberger</a>
         </p>
     </footer>
+    <button id="btnTopo" style="display:none; position:fixed; bottom:20px; right:20px; padding:10px 15px; background-color:#007BFF; color:white; border:none; border-radius:5px; cursor:pointer;">Topo</button>
+    <script>
+        const btnTopo = document.getElementById('btnTopo');
+    
+        // Mostra o botão ao rolar a página
+        window.onscroll = function() {
+            if (window.scrollY > 200) {
+                btnTopo.style.display = 'block';
+            } else {
+                btnTopo.style.display = 'none';
+            }
+        };
+    
+        // Volta ao topo ao clicar no botão
+        btnTopo.onclick = function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        };
+    </script>
+    
 </body>
 </html>
