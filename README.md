@@ -12,9 +12,6 @@ Este projeto tem como objetivo apresentar de forma clara e divertida curiosidade
 * **HTML:** Estruturação das páginas.
 * **CSS:** Estilização visual.
 
-## Como Acessar o Projeto
-[[Link para o Site](https://jonathaneichenberger.github.io/projeto-site-android-cursoemvideo)]
-
 ## Imagens do Projeto
 ![Primeira parte do Site](projeto-android-1.jpg)
 ![Segunda parte do Site](projeto-android-2.jpg)
