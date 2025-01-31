@@ -20,5 +20,5 @@ Este projeto tem como objetivo apresentar de forma clara e divertida curiosidade
 
 ## Créditos
 * **Design e projeto** [Curso em Video](https://github.com/cursoemvideo)
-* **Desenvolvedor:** [Jonathan Reinaldo Eichenberger](https://github.com/jonathaneichenberger/)
+* **Desenvolvedor:** [Jonathan Reinaldo Eichenberger](https://www.linkedin.com/in/jonathan-eichenberger/)
 
